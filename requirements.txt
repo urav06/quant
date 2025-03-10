@@ -1,0 +1,8 @@
+# Quant Dependencies
+numpy
+torch
+
+# Run Dependencies
+scikit-learn
+tqdm
+pandas
